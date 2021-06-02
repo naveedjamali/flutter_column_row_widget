@@ -1,16 +1,14 @@
-# flutter_column_row_widget
+# Flutter Column and Row widgets
 
-A new Flutter project.
+In this project we are implemting Column and Row widget to place other widgets in vertical and horizontal position. Column and Row widgets are very important widgets in building a User Interface. Both widget place #Children Widgets# in two dimension. 
 
-## Getting Started
+## Column Widget
 
-This project is a starting point for a Flutter application.
+Column widget is used to place other widget in vertical direction. Widgets are placed on top of other sibling widget. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Row Widget
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Column widget is used to place other widget in horizontal direction. Widgets are placed on left or right side of other sibling widget. 
+
+### See the screenshot in the root directory of the project
